@@ -1,7 +1,6 @@
 # Eclipse Foundation
 
-<img width="3620" height="1260" alt="image" src="https://github.com/user-attachments/assets/a5e75f46-b3a9-45db-a06a-abe3fc0294b1" />
-<br/><br/>
+<img width="905" height="315" alt="GitHub_Banner_-_Eclipse__2_small" src="https://github.com/user-attachments/assets/7c5e9a25-4884-4a6c-aed8-83d149f7814e" />
 
 The Eclipse Foundation is home to hundreds of open source projects and industry collaborations across developer tools, cloud native technologies, automotive software, AI and more. Our ecosystem includes widely adopted initiatives such as the [Eclipse IDE](https://www.eclipse.org/ide/), [Eclipse Adoptium](https://adoptium.net/), [Jakarta EE](https://jakarta.ee/), [Eclipse Software Defined Vehicle (SDV)](https://sdv.eclipse.org/) and [Open VSX](https://open-vsx.org/).
 
