@@ -7,7 +7,6 @@ The Eclipse Foundation is home to hundreds of open source projects and industry 
 
 Headquartered in Brussels, Belgium, the Eclipse Foundation provides a global community of developers, organisations and innovators with a trusted, vendor-neutral environment for open source software collaboration and innovation.
 
----
 ## Discover our open source projects
 
 All Eclipse projects have a dedicated GitHub organisation (e.g. https://github.com/eclipse-platform/ for the Eclipse Platform project).
