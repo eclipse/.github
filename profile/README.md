@@ -8,11 +8,15 @@ Headquartered in Brussels, Belgium, the Eclipse Foundation provides a global com
 
 ## Discover our open source projects
 
-All Eclipse projects have a dedicated GitHub organisation (e.g. https://github.com/eclipse-platform/ for the Eclipse Platform project).
+All Eclipse Foundation projects have a dedicated GitHub organisation (e.g. https://github.com/eclipse-platform/ for the Eclipse Platform project).
 
-An overview of dedicated GitHub organisations can be found here: https://eclipse.github.io/eclipse-projects/ (please note that this list is still incomplete, but it will eventually contain all Eclipse projects that are hosted on GitHub).
+An overview of dedicated GitHub organisations can be found here: https://eclipse.github.io/eclipse-projects/ (please note that this list is still incomplete, but it will eventually contain all Eclipse Foundation projects that are hosted on GitHub).
 
-Eclipse projects and their project resources can also be explored here: https://projects.eclipse.org
+Eclipse Foundation projects and their project resources can also be explored here: https://projects.eclipse.org
+
+## Start contributing to open source projects
+
+New to open source? Visit our ["How to contribute page"](https://www.eclipse.org/contribute/) to get started.
 
 ## Community
 All Eclipse Foundation projects follow the [Eclipse Development Process](https://www.eclipse.org/projects/dev_process/), which ensures meritocracy, diversity, vendor neutrality and business-friendliness. Everyone who takes part is expected to uphold our [Community Code of Conduct](https://github.com/eclipse/.github/blob/master/CODE_OF_CONDUCT.md).
